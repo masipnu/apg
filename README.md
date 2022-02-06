@@ -11,4 +11,4 @@ Kami berharap dengan adanya project sederhana ini, para peserta diidk dapat mema
 Madiun, 02 Februari 2022
 Admin
 
-Ipnu Masyaid | masipnu1@gmail.com | www.ruangmeta.com
+**Ipnu Masyaid** | masipnu1@gmail.com | www.ruangmeta.com

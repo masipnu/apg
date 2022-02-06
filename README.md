@@ -1,5 +1,4 @@
-# APG
-## Aplikasi Manajemen Pegawai
+# APG | Aplikasi Manajemen Pegawai
 
 ## Deskripsi
 Ini adalah project aplikasi manajemen pegawai sederhana yang mengusung konsep CRUD dengan beberapa komponen pembangun : HTML, PHP, MySQL, Bootstrap dan pluginrti : summernotejs dan DataTable.

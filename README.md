@@ -9,6 +9,6 @@ Project ini kami bangun sebagai bahan pembelajaran pada kegiatan pembelajaran Ba
 Kami berharap dengan adanya project sederhana ini, para peserta diidk dapat memahami alur kerja aplikasi serta tahapan-tahapan yang dilakukan dalam proses pengembangan software serta nantinya dapat mengembangkan project ini menjadi aplikasi-aplikasi lain yang bermanfaat.
 
 Madiun, 02 Februari 2022
-Admin
-
+#
+#
 **Ipnu Masyaid** | masipnu1@gmail.com | www.ruangmeta.com

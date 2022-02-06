@@ -1,7 +1,7 @@
 # APG
 ## Aplikasi Manajemen Pegawai
 
-##
+## Deskripsi
 Ini adalah project aplikasi manajemen pegawai sederhana yang mengusung konsep CRUD dengan beberapa komponen pembangun : HTML, PHP, MySQL, Bootstrap dan pluginrti : summernotejs dan DataTable.
 
 Project ini kami bangun sebagai bahan pembelajaran pada kegiatan pembelajaran Basis Data di kelas XII jurusan Rekayasa Perangkat Lunak di SMK Berbasis Pesantren Subulul Huda | Kembangsawit, Rejosari, Madiun.

@@ -1,4 +1,4 @@
-<?php
+0<?php
 if(!defined('INDEX')) die();
 
 $foto   = $_FILES['foto']['name'];

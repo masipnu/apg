@@ -14,7 +14,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>APG | Admin</title>
+	<title>APG | User</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/style.css">
@@ -27,8 +27,6 @@
 		<aside>
 			<ul class="menu">
 				<li><a href="?hal=dashboard">Dashboard</a></li>
-				<li><a href="?hal=pegawai">Data Pegawai</a></li>
-				<li><a href="?hal=jabatan">Data Jabatan</a></li>
 				<li><a href="logout.php">Keluar</a></li>
 			</ul>
 		</aside>

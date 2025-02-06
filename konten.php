@@ -14,7 +14,10 @@
         "jabatan_insert",
         "jabatan_edit",
         "jabatan_update",
-        "jabatan_hapus"
+        "jabatan_hapus",
+        "halo",
+        "barang","barang_edit","barang_update",
+        "cek"
     ];
 
     if (isset($_GET['hal'])) {
